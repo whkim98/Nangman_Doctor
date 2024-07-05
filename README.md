@@ -66,7 +66,8 @@
 - [팀의 개발 문화](#culture)
 - [결과물](#outputs)
 - [API 명세서](#API)
-
+- [발표자료](#BOARD)
+  
 <br>
 
 # 🎉 개요 <a name = "outline"></a>
@@ -247,6 +248,18 @@ Main 브랜치로 merge된 이후에는 변경된 기능을 확인하고 오류 
   <br />
 
   스웨거 주소: http://deploysemi.midichi.kro.kr/swagger-ui
+</details>
+
+<br>
+
+
+# 📃 발표자료 <a name = "BOARD"></a>
+
+<details>
+  <summary> 본문 확인 (👈 Click)</summary>
+  <br />
+  
+  발표자료 : ![낭만닥터_발표자료.pdf](https://github.com/user-attachments/files/16098868/_.pdf)
 </details>
 
 
